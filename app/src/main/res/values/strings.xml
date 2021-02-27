@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="janken_text">じゃん・けん・・・</string>
+    <string name="result_win">あなたの勝ちです</string>
+    <string name="result_lose">コンピュータの勝ちです</string>
+    <string name="result_draw">あいこです</string>
+    <string name="back_text">戻る</string>
+    <string name="imageIsChoki">チョキの画像です</string>
+    <string name="imageIsPa">パーの画像です</string>
+    <string name="imageIsGu">グーの画像です</string>
+    <string name="textview">TextView</string>
+    <string name="imageIsMyHand">プレイヤーの手の画像です</string>
+    <string name="imageIsComHand">コンピュータの手の画像です</string>
+</resources>
